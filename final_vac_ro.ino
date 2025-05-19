@@ -1,4 +1,3 @@
-//Mechano The Smart Floor Cleaning robot by Hobby Project
 
 #include <Servo.h> // include Servo library for ESC (Electronic Speed Controller)
 Servo esc; // create servo object to control ESC
